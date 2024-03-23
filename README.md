@@ -8,4 +8,4 @@ Additional Information: The dataset comprises direct marketing campaign data fro
 
 Approach: We employed a decision tree classifier to analyze the data. This algorithm recursively partitions the data based on the features, creating a tree-like structure of decisions. By training the classifier on historical data, we aimed to predict whether a client would subscribe (yes/no) to a term deposit.
 
-Outcome: The trained decision tree classifier achieved an accuracy of [insert accuracy score] on the test data. This predictive model can assist banking institutions in targeting potential customers more effectively, optimizing their marketing efforts, and improving the success rate of term deposit subscriptions.
+Outcome: The trained decision tree classifier achieved an accuracy of 0.8740462235983634 on the test data. This predictive model can assist banking institutions in targeting potential customers more effectively, optimizing their marketing efforts, and improving the success rate of term deposit subscriptions.
